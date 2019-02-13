@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  AnimateBallDrop
 //
-//  Created by Ray Berry on 15/10/2018.
+//  Created by James and Ray Berry on 15/10/2018.
 //  Copyright © 2018 JARBerry. All rights reserved.
 //
 
